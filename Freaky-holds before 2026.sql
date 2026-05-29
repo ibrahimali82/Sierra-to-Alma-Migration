@@ -1,8 +1,10 @@
------
-
+/*
+    Retrieves all current patron fines from Sierra
+	Ibrahim Ali
+	Auraria Library - University of Colorado Denver
+*/
 -- this query will get hold, bib, and item information from holds that are 
 -- INN-Reach or ILL 
-
 -----
 
 SELECT
