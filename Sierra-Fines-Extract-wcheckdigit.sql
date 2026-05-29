@@ -1,8 +1,7 @@
 /*
-    Retrieves all current patron fines from Sierra
-	Ibrahim Ali
-	Auraria Library - University of Colorado Denver
-
+-- Ibrahim Ali
+-- Auraria Library - University of Colorado Denver
+-- Sierra Fines Extract With Checkdigit
 */
 
 SELECT 
